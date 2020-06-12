@@ -48,6 +48,8 @@
 	<string>iPhone 11 Pro</string>
 	<key>iPhone12.5</key>
 	<string>iPhone 11 Pro Max</string>
+	<key>iPhone12,8</key>
+	<string>iPhone SE 2</string>
 	<key>i386</key>
 	<string>iPhone Simulator</string>
 	<key>x86_64</key>
@@ -62,12 +64,12 @@
 	<string>iPad 2</string>
 	<key>iPad2,4</key>
 	<string>iPad 2</string>
-    <key>iPad2,5</key>
-    <string>iPad mini</string>
-    <key>iPad2,6</key>
-    <string>iPad mini</string>
-    <key>iPad2,7</key>
-    <string>iPad mini</string>
+	<key>iPad2,5</key>
+	<string>iPad mini</string>
+	<key>iPad2,6</key>
+	<string>iPad mini</string>
+	<key>iPad2,7</key>
+	<string>iPad mini</string>
 	<key>iPad3,1</key>
 	<string>iPad 3</string>
 	<key>iPad3,2</key>
@@ -86,22 +88,22 @@
 	<string>iPad Air</string>
 	<key>iPad4,3</key>
 	<string>iPad Air</string>
-    <key>iPad4,4</key>
-    <string>iPad mini 2</string>
-    <key>iPad4,5</key>
-    <string>iPad mini 2</string>
-    <key>iPad4,6</key>
-    <string>iPad mini 2</string>
-    <key>iPad4,7</key>
-    <string>iPad mini 3</string>
-    <key>iPad4,8</key>
-    <string>iPad mini 3</string>
-    <key>iPad4,9</key>
-    <string>iPad mini 3</string>
-    <key>iPad5,1</key>
-    <string>iPad mini 4</string>
-    <key>iPad5,2</key>
-    <string>iPad mini 4</string>
+	<key>iPad4,4</key>
+	<string>iPad mini 2</string>
+	<key>iPad4,5</key>
+	<string>iPad mini 2</string>
+	<key>iPad4,6</key>
+	<string>iPad mini 2</string>
+	<key>iPad4,7</key>
+	<string>iPad mini 3</string>
+	<key>iPad4,8</key>
+	<string>iPad mini 3</string>
+	<key>iPad4,9</key>
+	<string>iPad mini 3</string>
+	<key>iPad5,1</key>
+	<string>iPad mini 4</string>
+	<key>iPad5,2</key>
+	<string>iPad mini 4</string>
 	<key>iPad5,3</key>
 	<string>iPad Air 2</string>
 	<key>iPad5,4</key>
@@ -162,9 +164,9 @@
 	<string>iPad mini 5</string>
 	<key>iPad11,2</key>
 	<string>iPad mini 5</string>
-    <key>iPad11,3</key>
-    <string>iPad Air 3</string>
-    <key>iPad11,4</key>
-    <string>iPad Air 3</string>
+	<key>iPad11,3</key>
+	<string>iPad Air 3</string>
+	<key>iPad11,4</key>
+	<string>iPad Air 3</string>
 </dict>
 </plist>
