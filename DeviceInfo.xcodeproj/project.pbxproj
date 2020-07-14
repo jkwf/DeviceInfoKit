@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		1E574BFD24372021002BEF29 /* DeviceInfo.plist in Resources */ = {isa = PBXBuildFile; fileRef = 1E574BFC24372021002BEF29 /* DeviceInfo.plist */; };
+		1E7A999524A8A5110062ACB0 /* AppHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E7A999424A8A5110062ACB0 /* AppHelper.swift */; };
 		1E9CDF972432006F006304C7 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E9CDF962432006F006304C7 /* AppDelegate.swift */; };
 		1E9CDF992432006F006304C7 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E9CDF982432006F006304C7 /* SceneDelegate.swift */; };
 		1E9CDF9B2432006F006304C7 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E9CDF9A2432006F006304C7 /* ViewController.swift */; };
@@ -18,6 +19,7 @@
 
 /* Begin PBXFileReference section */
 		1E574BFC24372021002BEF29 /* DeviceInfo.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = DeviceInfo.plist; sourceTree = "<group>"; };
+		1E7A999424A8A5110062ACB0 /* AppHelper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppHelper.swift; sourceTree = "<group>"; };
 		1E9CDF932432006F006304C7 /* DeviceInfo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DeviceInfo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1E9CDF962432006F006304C7 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		1E9CDF982432006F006304C7 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -61,6 +63,7 @@
 				1E9CDF962432006F006304C7 /* AppDelegate.swift */,
 				1E9CDF982432006F006304C7 /* SceneDelegate.swift */,
 				1E9CDF9A2432006F006304C7 /* ViewController.swift */,
+				1E7A999424A8A5110062ACB0 /* AppHelper.swift */,
 				1E574BFC24372021002BEF29 /* DeviceInfo.plist */,
 				1E9CDF9C2432006F006304C7 /* Main.storyboard */,
 				1E9CDF9F24320074006304C7 /* Assets.xcassets */,
@@ -145,6 +148,7 @@
 				1E9CDF9B2432006F006304C7 /* ViewController.swift in Sources */,
 				1E9CDF972432006F006304C7 /* AppDelegate.swift in Sources */,
 				1E9CDF992432006F006304C7 /* SceneDelegate.swift in Sources */,
+				1E7A999524A8A5110062ACB0 /* AppHelper.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -289,11 +293,13 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				INFOPLIST_FILE = Draw/Info.plist;
+				CURRENT_PROJECT_VERSION = 1.1;
+				INFOPLIST_FILE = "$(SRCROOT)/DeviceInfo/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
+				MARKETING_VERSION = 1.1;
 				PRODUCT_BUNDLE_IDENTIFIER = com.test.app.Draw;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
@@ -306,11 +312,13 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				INFOPLIST_FILE = Draw/Info.plist;
+				CURRENT_PROJECT_VERSION = 1.1;
+				INFOPLIST_FILE = "$(SRCROOT)/DeviceInfo/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
+				MARKETING_VERSION = 1.1;
 				PRODUCT_BUNDLE_IDENTIFIER = com.test.app.Draw;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
