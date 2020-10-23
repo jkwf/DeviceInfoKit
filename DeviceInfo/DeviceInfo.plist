@@ -48,10 +48,36 @@
 	<string>Apple Watch Series 4 (40mm)</string>
 	<key>Watch4,4</key>
 	<string>Apple Watch Series 4 (44mm)</string>
+	<key>Watch5,1</key>
+	<string>Apple Watch Series 5 (40mm)</string>
+	<key>Watch5,2</key>
+	<string>Apple Watch Series 5 (44mm)</string>
+	<key>Watch5,3</key>
+	<string>Apple Watch Series 5 (40mm)</string>
+	<key>Watch5,4</key>
+	<string>Apple Watch Series 5 (44mm)</string>
+	<key>Watch5,9</key>
+	<string>Apple Watch SE (44mm)</string>
+	<key>Watch5,10</key>
+	<string>Apple Watch SE (40mm)</string>
+	<key>Watch5,11</key>
+	<string>Apple Watch SE (44mm)</string>
+	<key>Watch5,12</key>
+	<string>Apple Watch SE (40mm)</string>
+	<key>Watch6,1</key>
+	<string>Apple Watch Series 6 (40mm)</string>
+	<key>Watch6,2</key>
+	<string>Apple Watch Series 6 (44mm)</string>
+	<key>Watch6,3</key>
+	<string>Apple Watch Series 6 (40mm)</string>
+	<key>Watch6,4</key>
+	<string>Apple Watch Series 6 (44mm)</string>
 	<key>AudioAccessory1,1</key>
 	<string>HomePod</string>
 	<key>AudioAccessory2,1</key>
 	<string>HomePod</string>
+	<key>AudioAccessory5,1</key>
+	<string>HomePod mini</string>
 	<key>iPhone6,1</key>
 	<string>iPhone 5s</string>
 	<key>iPhone6,2</key>
@@ -100,6 +126,14 @@
 	<string>iPhone 11 Pro Max</string>
 	<key>iPhone12,8</key>
 	<string>iPhone SE 2</string>
+	<key>iPhone13,1</key>
+	<string>iPhone 12 mini</string>
+	<key>iPhone13,2</key>
+	<string>iPhone 12</string>
+	<key>iPhone13,3</key>
+	<string>iPhone 12 Pro</string>
+	<key>iPhone13,4</key>
+	<string>iPhone 12 Pro Max</string>
 	<key>i386</key>
 	<string>iPhone Simulator</string>
 	<key>x86_64</key>
@@ -114,12 +148,6 @@
 	<string>iPad 2</string>
 	<key>iPad2,4</key>
 	<string>iPad 2</string>
-	<key>iPad2,5</key>
-	<string>iPad mini</string>
-	<key>iPad2,6</key>
-	<string>iPad mini</string>
-	<key>iPad2,7</key>
-	<string>iPad mini</string>
 	<key>iPad3,1</key>
 	<string>iPad 3</string>
 	<key>iPad3,2</key>
@@ -132,12 +160,24 @@
 	<string>iPad 4</string>
 	<key>iPad3,6</key>
 	<string>iPad 4</string>
-	<key>iPad4,1</key>
-	<string>iPad Air</string>
-	<key>iPad4,2</key>
-	<string>iPad Air</string>
-	<key>iPad4,3</key>
-	<string>iPad Air</string>
+	<key>iPad6,11</key>
+	<string>iPad 5</string>
+	<key>iPad6,12</key>
+	<string>iPad 5</string>
+	<key>iPad7,5</key>
+	<string>iPad 6</string>
+	<key>iPad7,6</key>
+	<string>iPad 6</string>
+	<key>iPad7,11</key>
+	<string>iPad 7</string>
+	<key>iPad7,12</key>
+	<string>iPad 7</string>
+	<key>iPad2,5</key>
+	<string>iPad mini</string>
+	<key>iPad2,6</key>
+	<string>iPad mini</string>
+	<key>iPad2,7</key>
+	<string>iPad mini</string>
 	<key>iPad4,4</key>
 	<string>iPad mini 2</string>
 	<key>iPad4,5</key>
@@ -154,10 +194,28 @@
 	<string>iPad mini 4</string>
 	<key>iPad5,2</key>
 	<string>iPad mini 4</string>
+	<key>iPad11,1</key>
+	<string>iPad mini 5</string>
+	<key>iPad11,2</key>
+	<string>iPad mini 5</string>
+	<key>iPad4,1</key>
+	<string>iPad Air</string>
+	<key>iPad4,2</key>
+	<string>iPad Air</string>
+	<key>iPad4,3</key>
+	<string>iPad Air</string>
 	<key>iPad5,3</key>
 	<string>iPad Air 2</string>
 	<key>iPad5,4</key>
 	<string>iPad Air 2</string>
+	<key>iPad11,3</key>
+	<string>iPad Air 3</string>
+	<key>iPad11,4</key>
+	<string>iPad Air 3</string>
+	<key>iPad13,1</key>
+	<string>iPad Air 4</string>
+	<key>iPad13,2</key>
+	<string>iPad Air 4</string>
 	<key>iPad6,3</key>
 	<string>iPad Pro (9.7-inch)</string>
 	<key>iPad6,4</key>
@@ -166,10 +224,6 @@
 	<string>iPad Pro (12.9-inch)</string>
 	<key>iPad6,8</key>
 	<string>iPad Pro (12.9-inch)</string>
-	<key>iPad6,11</key>
-	<string>iPad 5</string>
-	<key>iPad6,12</key>
-	<string>iPad 5</string>
 	<key>iPad7,1</key>
 	<string>iPad Pro 2 (12.9-inch)</string>
 	<key>iPad7,2</key>
@@ -178,14 +232,6 @@
 	<string>iPad Pro (10.5-inch)</string>
 	<key>iPad7,4</key>
 	<string>iPad Pro (10.5-inch)</string>
-	<key>iPad7,5</key>
-	<string>iPad 6</string>
-	<key>iPad7,6</key>
-	<string>iPad 6</string>
-	<key>iPad7,11</key>
-	<string>iPad 7</string>
-	<key>iPad7,12</key>
-	<string>iPad 7</string>
 	<key>iPad8,1</key>
 	<string>iPad Pro (11-inch)</string>
 	<key>iPad8,2</key>
@@ -210,14 +256,6 @@
 	<string>iPad Pro 4 (12.9-inch)</string>
 	<key>iPad8,12</key>
 	<string>iPad Pro 4 (12.9-inch)</string>
-	<key>iPad11,1</key>
-	<string>iPad mini 5</string>
-	<key>iPad11,2</key>
-	<string>iPad mini 5</string>
-	<key>iPad11,3</key>
-	<string>iPad Air 3</string>
-	<key>iPad11,4</key>
-	<string>iPad Air 3</string>
 	<key>iPod1,1</key>
 	<string>iPod touch 1</string>
 	<key>iPod2,1</key>
