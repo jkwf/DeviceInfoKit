@@ -45,9 +45,7 @@ class AppHelper: NSObject {
         let interval = Int((date?.timeIntervalSince1970)!) + NSTimeZone.local.secondsFromGMT()
         let days = Int(interval / 86400) // 24*60*60
         let weekday = ((days + 4) % 7 + 7) % 7
-      
         let weekArr = ["星期日", "星期一", "星期二", "星期三", "星期四", "星期五", "星期六"]
-
         return weekArr[weekday]
     }
     
