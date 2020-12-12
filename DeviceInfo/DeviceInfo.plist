@@ -172,6 +172,10 @@
 	<string>iPad 7</string>
 	<key>iPad7,12</key>
 	<string>iPad 7</string>
+	<key>iPad11,6</key>
+	<string>iPad 8</string>
+	<key>iPad11,7</key>
+	<string>iPad 8</string>
 	<key>iPad2,5</key>
 	<string>iPad mini</string>
 	<key>iPad2,6</key>
