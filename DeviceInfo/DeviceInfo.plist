@@ -24,7 +24,7 @@
 	<string>Apple Watch 1 (38mm)</string>
 	<key>Watch1,2</key>
 	<string>Apple Watch 1 (42mm)</string>
-	<key>Watch2.6</key>
+	<key>Watch2,6</key>
 	<string>Apple Watch Series 1 (38mm)</string>
 	<key>Watch2,7</key>
 	<string>Apple Watch Series 1 (42mm)</string>
@@ -118,11 +118,11 @@
 	<string>iPhone XS</string>
 	<key>iPhone11,6</key>
 	<string>iPhone XS Max</string>
-	<key>iPhone12.1</key>
+	<key>iPhone12,1</key>
 	<string>iPhone 11</string>
-	<key>iPhone12.3</key>
+	<key>iPhone12,3</key>
 	<string>iPhone 11 Pro</string>
-	<key>iPhone12.5</key>
+	<key>iPhone12,5</key>
 	<string>iPhone 11 Pro Max</string>
 	<key>iPhone12,8</key>
 	<string>iPhone SE 2</string>
