@@ -6,8 +6,12 @@
 	<string>AirPods 1</string>
 	<key>AirPods2,1</key>
 	<string>AirPods 2</string>
+	<key>AirPods2,2</key>
+	<string>AirPods Pro</string>
 	<key>iProd8,1</key>
 	<string>AirPods Pro</string>
+	<key>iProd8,6</key>
+	<string>AirPods Max</string>
 	<key>AppleTV1,1</key>
 	<string>Apple TV 1</string>
 	<key>AppleTV2,1</key>
@@ -20,11 +24,15 @@
 	<string>Apple TV 4</string>
 	<key>AppleTV6,2</key>
 	<string>Apple TV 4K</string>
+	<key>AppleTV11,1</key>
+	<string>Apple TV 4K (2nd generation)</string>
+	<key>AirTag1,1</key>
+	<string>AirTag</string>
 	<key>Watch1,1</key>
 	<string>Apple Watch 1 (38mm)</string>
 	<key>Watch1,2</key>
 	<string>Apple Watch 1 (42mm)</string>
-	<key>Watch2,6</key>
+	<key>Watch2.6</key>
 	<string>Apple Watch Series 1 (38mm)</string>
 	<key>Watch2,7</key>
 	<string>Apple Watch Series 1 (42mm)</string>
@@ -118,11 +126,11 @@
 	<string>iPhone XS</string>
 	<key>iPhone11,6</key>
 	<string>iPhone XS Max</string>
-	<key>iPhone12,1</key>
+	<key>iPhone12.1</key>
 	<string>iPhone 11</string>
-	<key>iPhone12,3</key>
+	<key>iPhone12.3</key>
 	<string>iPhone 11 Pro</string>
-	<key>iPhone12,5</key>
+	<key>iPhone12.5</key>
 	<string>iPhone 11 Pro Max</string>
 	<key>iPhone12,8</key>
 	<string>iPhone SE 2</string>
@@ -224,14 +232,6 @@
 	<string>iPad Pro (9.7-inch)</string>
 	<key>iPad6,4</key>
 	<string>iPad Pro (9.7-inch)</string>
-	<key>iPad6,7</key>
-	<string>iPad Pro (12.9-inch)</string>
-	<key>iPad6,8</key>
-	<string>iPad Pro (12.9-inch)</string>
-	<key>iPad7,1</key>
-	<string>iPad Pro 2 (12.9-inch)</string>
-	<key>iPad7,2</key>
-	<string>iPad Pro 2 (12.9-inch)</string>
 	<key>iPad7,3</key>
 	<string>iPad Pro (10.5-inch)</string>
 	<key>iPad7,4</key>
@@ -244,6 +244,26 @@
 	<string>iPad Pro (11-inch)</string>
 	<key>iPad8,4</key>
 	<string>iPad Pro (11-inch)</string>
+  <key>iPad8,9</key>
+  <string>iPad Pro 2 (11-inch)</string>
+  <key>iPad8,10</key>
+  <string>iPad Pro 2 (11-inch)</string>
+  <key>iPad13,4</key>
+  <string>iPad Pro 3 (11-inch)</string>
+  <key>iPad13,5</key>
+  <string>iPad Pro 3 (11-inch)</string>
+  <key>iPad13,6</key>
+  <string>iPad Pro 3 (11-inch)</string>
+  <key>iPad13,7</key>
+  <string>iPad Pro 3 (11-inch)</string>
+  <key>iPad6,7</key>
+  <string>iPad Pro (12.9-inch)</string>
+  <key>iPad6,8</key>
+  <string>iPad Pro (12.9-inch)</string>
+  <key>iPad7,1</key>
+  <string>iPad Pro 2 (12.9-inch)</string>
+  <key>iPad7,2</key>
+  <string>iPad Pro 2 (12.9-inch)</string>
 	<key>iPad8,5</key>
 	<string>iPad Pro 3 (12.9-inch)</string>
 	<key>iPad8,6</key>
@@ -252,14 +272,18 @@
 	<string>iPad Pro 3 (12.9-inch)</string>
 	<key>iPad8,8</key>
 	<string>iPad Pro 3 (12.9-inch)</string>
-	<key>iPad8,9</key>
-	<string>iPad Pro 2 (11-inch)</string>
-	<key>iPad8,10</key>
-	<string>iPad Pro 2 (11-inch)</string>
 	<key>iPad8,11</key>
 	<string>iPad Pro 4 (12.9-inch)</string>
 	<key>iPad8,12</key>
 	<string>iPad Pro 4 (12.9-inch)</string>
+  <key>iPad13,8</key>
+  <string>iPad Pro 5 (12.9-inch)</string>
+  <key>iPad13,9</key>
+  <string>iPad Pro 5 (12.9-inch)</string>
+  <key>iPad13,10</key>
+  <string>iPad Pro 5 (12.9-inch)</string>
+  <key>iPad13,11</key>
+  <string>iPad Pro 5 (12.9-inch)</string>
 	<key>iPod1,1</key>
 	<string>iPod touch 1</string>
 	<key>iPod2,1</key>
