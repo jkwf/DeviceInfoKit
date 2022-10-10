@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '10.0'
+
+target 'DeviceInfoKit_Example' do
+  pod 'DeviceInfoKit', :path => '../'
+
+  target 'DeviceInfoKit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
