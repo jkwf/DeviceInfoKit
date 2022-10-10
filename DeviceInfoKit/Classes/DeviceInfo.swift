@@ -1,6 +1,6 @@
 //
-//  DeviceInfoKit.swift
-//  DeviceInfoKit
+//  DeviceInfo.swift
+//  DeviceInfo
 //
 //  Created by jkwf on 2020/6/28.
 //  Copyright © 2020 jkwf. All rights reserved.
@@ -8,12 +8,13 @@
 
 import UIKit
 
-class DeviceInfoKit: NSObject {
+class DeviceInfo: NSObject {
 
   /// 获取设备型号
   /// - Returns: <#description#>
   class func getDevicePlatform() -> String {
-    if let bundlePath = Bundle(for: DeviceInfoKit.self).path(forResource: "DeviceInfo", ofType: "plist"), let dicData = NSDictionary(contentsOfFile: bundlePath) {
+    let aClass: AnyClass = DeviceInfo.self
+    if let bundlePath = Bundle(for: aClass).path(forResource: "DeviceInfo", ofType: "plist"), let dicData = NSDictionary(contentsOfFile: bundlePath) {
       var systemInfo = utsname()
       uname(&systemInfo)
       let platform = withUnsafePointer(to: &systemInfo.machine.0) { ptr in

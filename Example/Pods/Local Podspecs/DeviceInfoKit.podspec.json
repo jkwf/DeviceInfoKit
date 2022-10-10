@@ -1,6 +1,6 @@
 {
   "name": "DeviceInfoKit",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "summary": "设备型号",
   "description": "判断设备型号",
   "homepage": "https://github.com/jkwf/DeviceInfoKit",
@@ -13,7 +13,7 @@
   },
   "source": {
     "git": "https://github.com/jkwf/DeviceInfoKit.git",
-    "tag": "0.1.0"
+    "tag": "0.1.2"
   },
   "swift_versions": "5.0",
   "platforms": {
