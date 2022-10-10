@@ -22,7 +22,7 @@ pod 'DeviceInfoKit'
 
 ## Author
 
-jkwf, rongkang@skyplatanus.com
+jkwf, jrk_ios@163.com
 
 ## License
 

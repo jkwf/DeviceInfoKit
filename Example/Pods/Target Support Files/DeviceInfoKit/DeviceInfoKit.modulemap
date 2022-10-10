@@ -1,0 +1,6 @@
+framework module DeviceInfoKit {
+  umbrella header "DeviceInfoKit-umbrella.h"
+
+  export *
+  module * { export * }
+}
